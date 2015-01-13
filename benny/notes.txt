@@ -1,0 +1,8 @@
+scientific method
+-hypothesis
+   -benny is asian
+-experiment
+   -are his eyes open?
+-theory
+   -becuase his eyes are not eber open, he is asian
+
