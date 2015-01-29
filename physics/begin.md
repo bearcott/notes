@@ -19,8 +19,11 @@
 - Centimeter
 - Gram
 - Second
+
 *Most common units are gram, liter, meter, celsius*
+
 *Most common prefixes are Kilo Centi Mili*
+
 *Most common measurements kilogram, miligram, mililiter, centimeter, milimeter*
 
 ##Estimates
