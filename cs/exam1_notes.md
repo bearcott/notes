@@ -19,7 +19,7 @@ CS2 C++ Notes
     char name[] = "Henry";
     cout << name << endl;
 
-    >> Henry
+    \>> Henry
 
 - can initialized array dynamically.
 
@@ -57,7 +57,7 @@ CS2 C++ Notes
     int thing = &x;
     cout << *thing;
 
-    >> 25
+    \>> 25
 
 - a **constant pointer** is a pointer made with an address that cannot point to anthing else
 
