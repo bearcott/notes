@@ -1,10 +1,10 @@
 CS2 C++ Notes
 -------------
+sai notes can be found on [here](https://onedrive.live.com/redir?resid=8CEACC82290B2CB%211118)
 
 ###local/global variables
 - *global variables* not contants are initiated with a 0 (numerics) or null (string, object)
 - *static local variables* retain their contents between function calls. Their default init value is 0.
-- 
 
 ###functions
 - **stubs** are test functions
@@ -34,16 +34,21 @@ CS2 C++ Notes
 - `array.clear()`
 
 ###searches
+
 **linear search**
 - *inefficient/slow* - examines N/2 of N element array on average
 - *easy algo* array can be in any order
+
 **binary search**
 - splits the array down the middle. If left of middle is right, then examine left. other side likewise.
 - requires an *ordered array*
+
 ###sorts
+
 **bubble sort**
 - orders first two elements, order second and third elements, repeat.
 - *inefficient* easy to understand too
+
 **selection sort**
 - look for smallest num in array and exchange put in smallest slot repeat.
 - *more efficient than bubble sort*
