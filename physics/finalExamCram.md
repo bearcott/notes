@@ -56,6 +56,8 @@ Physics Final Exam
 	- constant: acceleration is normal
 	- increasing: acceleration is ahead of normal
 	- decreasing: acceleration is behind normal
+- hence *parallel* components show speed while *perpendicular* show direction.
+
 **projectile motion**
 - trajectory is determined by v0 and acceleration due to gravity
 - gravity will displace at same rate regardless of horizontal forces
