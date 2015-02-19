@@ -1,5 +1,6 @@
 CS2 C++ Notes
 -------------
+sai notes can be found on https://onedrive.live.com/redir?resid=8CEACC82290B2CB%211118
 
 ###local/global variables
 - *global variables* not contants are initiated with a 0 (numerics) or null (string, object)
