@@ -2,6 +2,12 @@ CS2 C++ Notes
 -------------
 sai notes can be found on [here](https://onedrive.live.com/redir?resid=8CEACC82290B2CB%211118)
 
+###Exam is:
+- everything through arrays. CH1-8.
+- multiple choice
+- fillin the blank
+- few writing code questions
+
 ###local/global variables
 - *global variables* not contants are initiated with a 0 (numerics) or null (string, object)
 - *static local variables* retain their contents between function calls. Their default init value is 0.
