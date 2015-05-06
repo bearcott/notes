@@ -1,6 +1,7 @@
 #Final Exam Cramming
 
 **TOC**
+
 - [Lesson 13 Classes](#lesson-13)
 - [Lesson 14 More Classes](#lesson-14)
 - [Lesson 15 Inheritance & Polymorphism](#lesson-15)
@@ -244,6 +245,8 @@ a **derived class**
 - its defined with the keyword `virtual` and supports **dynamic binding** meaning they are bound at runtime to th function they call (not compile time)
 - when this object *must* be overridden in derived classes it is called a `pure virtual function.`
     + must have no function definitions in base class.
+
+Ex.
 
     virtual void Y() {...} //virtual function
     virtual void Y() {...} = 0 //pure virtual function

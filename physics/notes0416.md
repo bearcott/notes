@@ -28,7 +28,14 @@
 
     Weight (N) = mass(kg) * g
 
-- for a liquid to support an object, the buoyant force must equal the weight.
+    V1A1 = V2A2
+
+
+**Archimedes Principle** the buoyant force is equal to the weight of the object submerged.
     + for a object to stay above the liquid, the volume of object must equal volume of liquid displaced
+- pressure at the bottom of an object is always greater than the top
+**Bernoulli's Principle** lower pressure where velocity is increased
 
+    Pressure Energy 1 + 0.5*D*v1^2 + D*g*h1 = Pressure Energy 2 + D*v2^2 + D*g*h2
 
+**Torricelli's theorem** 
