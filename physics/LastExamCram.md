@@ -1,6 +1,17 @@
 #Last exam of the year. Gotta study.
 
-#Waves
+**topics**
+
+- conservation of energy
+- conservation of momentum
+- conservation of angular momentum
+- fluids
+- gravity
+- harmonic oscilations
+
+------------------------------------------------------------------------------
+
+###Waves
 **period** or T. It is wavelength. (crest to crest)
 
 **amplitude** middle to crest.
@@ -24,3 +35,13 @@
 
 - for simple harmonic motion, *angular speed* and *angular frequency* are the same!
 - when transitioning from distance to velocity to acceleration, it is changed by the factor of angular acceleration (w).
+
+###conservation of energy
+
+    
+
+###conservation of momentum
+###conservation of angular momentum
+###fluids
+###gravity
+###harmonic oscilations
