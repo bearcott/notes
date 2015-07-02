@@ -41,7 +41,17 @@
     
 
 ###conservation of momentum
+
+    (m1x1 + m2x2) / (m1+m2)
+    (m1v1 + m2v2) / (m1+m2)  
+    (m1a1 + m2a2) / (m1+m2)    
+    (F1 + F2) / (m1+m2)  
+
+- center of mass in 2 dimensions, break it down to x and y.
+- momentum/kinetic energy are a vector quantities! (direction)
+
 ###conservation of angular momentum
+
 ###fluids
 ###gravity
 ###harmonic oscilations

@@ -10,7 +10,7 @@
 
     T = Ia
 
-    *Tension = Moment of Inertia * angular acceleration* 
+    *Torque = Moment of Inertia * angular acceleration* 
 
 - linear acceleration multiplied by the radius is angular acceleration.
 
