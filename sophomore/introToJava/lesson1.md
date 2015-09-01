@@ -6,4 +6,3 @@
 **program interface**
 - every java program needs a class.
 - in order to run a class, you have to have a main method inside it
-- 

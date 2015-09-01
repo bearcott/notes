@@ -40,4 +40,4 @@ a **literal** is a number in a program e.g `g = 100 //100 is literal`
   int sum = 0;
   sum += 4.5 //equivilent of sum = (int)(sum + 4.5)
 
-  
+![](sizeChart.png)

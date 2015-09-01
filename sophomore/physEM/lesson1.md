@@ -1,3 +1,4 @@
+#CH21
 when a charge is at relative rest, they exert **electrostatic** forces on each other.
 
 *electric* came from the greek word *elektron* meaning amber. (since they discovered it by rubbing amber with wool. The amber conducted electricity)
@@ -38,4 +39,13 @@ Electrical forces are proportional to distance.
 
     F = k|q1*q2|/r^2
 
+F obeys *Newton's third law*, same magnitude/opposite direction for both sides even if q1 or q2 are different.
+
 `q1` and `q2` are the respective charges of the two objects. While `k` is a constant which depends on the units used.
+
+    k = 8.988 * 10^9 N*m^2/C^2
+    //approx 9*10^9 0.1 percent
+
+    e0 = 8.854 * 10^-12 C^2/N*m^2
+
+a charged object will *attract* even neutral objects due to an *induced* charge effect.
