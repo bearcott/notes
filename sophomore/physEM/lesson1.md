@@ -34,7 +34,7 @@ Electrical forces are proportional to distance.
 
  When `radius` doubles, electrical force decreases to 1/4.
 
- **￼The magnitude of the electric force between two point charges is directly propor- tional to the product of the charges and inversely proportional to the square of the distance between them.**
+ **￼The magnitude of the electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them.**
 
 
     F = k|q1*q2|/r^2
