@@ -2,5 +2,4 @@
 
 ###diapoles
 
-
     p = q* d
