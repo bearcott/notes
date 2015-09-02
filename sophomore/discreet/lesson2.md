@@ -8,10 +8,25 @@ Table of common logical operations
 |1|1|1     |1      |0      |1         |
 
 - OR - if one is true, then true (v)
+  - p or q.
 - AND - both are true, then true (^)
+  - p and q.
 - XOR - one is false one is true, then true ((+))
-- Bicond - both are false or true, then true (<->)
-- implied -  (->)
+  - p or q, but not both.
+- Bi-conditional - both are false or true, then true (<->)
+  - p if and only if q.
+
+The expression `p -> q` is a *conditional statement* which shows that based off condition `p` implies `q`.
+
+     if P, then Q.
+
+**truth table operator precedence**
+In order of most first:
+- NOT
+- AND
+- OR
+- ->
+- <->
 
 *if a logical expression is true for all values of its true table, then the expression is called a **tautology***
 
@@ -25,3 +40,15 @@ Table of common logical operations
 |0|1|1  |1       |
 |1|0|1  |1       |
 |1|1|1  |1       |
+
+**english examples**
+
+Inclusive OR
+
+    Students who have taken calculus or computer science can take this class.
+
+Exclusive OR
+
+    Students who have taken calculus or computer science, but not both, can enroll in this class.
+
+A *bit string* is a sequence of zero or more bits. The length of this string is the number of bits in the string.
