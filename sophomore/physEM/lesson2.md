@@ -31,4 +31,5 @@ It is *attracted* if q1q2 are opposite signs.
 
 *test charges* are usually positive small charges. (aka `q0`)
 
+
 *principle of super position forces* when two forces act on a third, the result is the addition of their vectors
