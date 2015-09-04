@@ -1,4 +1,4 @@
-###CH4
+# CH4
 
 **characters**
 
@@ -35,6 +35,6 @@ The `scanner` object takes words separated by spaces.
 
     System.out.printf("the number %d is %s", double, string);
 
-###CH5
+### CH5
 
 Basically... for loops lol.

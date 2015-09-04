@@ -1,4 +1,4 @@
-##CH21.3
+## CH21.3
 
 - a micro second is `10^-6` of a second
 - The SI unit for an electric charge is called a **coloumb** (C)
@@ -42,7 +42,7 @@ It is *attracted* if q1q2 are opposite signs.
 - F0 is the force exerted on q.
 - when q is positive E and F0 same direction
   - else opposite directions
-- 
+-
 
 *insulators inhibit the flow of electrons through them*
 

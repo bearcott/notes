@@ -1,4 +1,4 @@
-#Propositional Logic
+# Propositional Logic
 
 propositional calculus or propositional logic
 

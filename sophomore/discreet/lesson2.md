@@ -7,6 +7,8 @@ Table of common logical operations
 |1|0|1     |0      |1      |0         |
 |1|1|1     |1      |0      |1         |
 
+- NOT (im gonna use -)
+
 - OR - if one is true, then true (v)
   - p or q.
 - AND - both are true, then true (^)
@@ -17,6 +19,7 @@ Table of common logical operations
   - p if and only if q.
 
 The expression `p -> q` is a *conditional statement* which shows that based off condition `p` implies `q`.
+- true does not imply false but everything else works.
 
      if P, then Q.
 
@@ -40,6 +43,7 @@ In order of most first:
 |0|1|1  |1       |
 |1|0|1  |1       |
 |1|1|1  |1       |
+
 
 **english examples**
 
