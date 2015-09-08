@@ -5,7 +5,7 @@
 - P or (Q and R) <-> (P or Q) and (P or R)
   - X * (Y + Z) = X * Y + X * Z
 - P and (Q or R) <-> (P and Q) or (Q and R)
-  - X + (Y * Z) = ? missed it
+  - X + (Y * Z) = (X + Y) * (Y + Z)
 
 **negate and simplify**
 - P -> W <-> not P * Q

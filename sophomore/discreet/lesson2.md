@@ -7,7 +7,7 @@ Table of common logical operations
 |1|0|1     |0      |1      |0         |
 |1|1|1     |1      |0      |1         |
 
-- NOT (im gonna use -)
+- NOT (¬)
 
 - OR - if one is true, then true (v)
   - p or q.
@@ -17,6 +17,7 @@ Table of common logical operations
   - p or q, but not both.
 - Bi-conditional - both are false or true, then true (<->)
   - p if and only if q.
+  - known as *IFF*
 
 The expression `p -> q` is a *conditional statement* which shows that based off condition `p` implies `q`.
 - true does not imply false but everything else works.
