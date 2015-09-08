@@ -8,6 +8,16 @@
   - 1 nC = 10^-9 C (nano)
 - **current** is the flow of *positive* charge
 
+
+*principle of super position forces* when two forces act on a third, the result is the addition of their vectors.
+- hence consider things you learned last year in physics for vector addition.
+  - using `sin` and `cos` to break vectors into components.
+  - draw vector diagrams for visualization!!
+
+*insulators inhibit the flow of electrons through them*
+
+**electric field**
+
 the *electric field* opposes the positive direction and flows towards the negative.
 
 The distribution for the electric field of a single particle
@@ -42,15 +52,22 @@ It is *attracted* if q1q2 are opposite signs.
 - F0 is the force exerted on q.
 - when q is positive E and F0 same direction
   - else opposite directions
--
 
-*insulators inhibit the flow of electrons through them*
 
 *charge can be transferred through contact*
 
-*principle of super position forces* when two forces act on a third, the result is the addition of their vectors.
-- hence consider things you learned last year in physics for vector addition.
-  - using `sin` and `cos` to break vectors into components.
-  - draw vector diagrams for visualization!!
-
 *coloumb's law should only be applied in a vaccuum*
+
+**lambda (l)** represents the linear charge density such as a rod.
+
+**sigma (o)** represents surface charge density
+
+**rho (p)** represents volume charge density
+
+### Misc
+
+Also it is important to relate to several physics qualities.
+
+Such as the equation for kinetic energy.
+
+    K = 0.5 * m * v^2
