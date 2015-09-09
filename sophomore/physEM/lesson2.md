@@ -46,7 +46,9 @@ It is *attracted* if q1q2 are opposite signs.
 
 *test charges* are usually positive small charges. (aka `q0`)
 
-    E = F0/q0
+    E = F0/q0 <-- vector
+
+    E = k * q / r^2 r <-- vector
 
 - E is electric field vector
 - F0 is the force exerted on q.
