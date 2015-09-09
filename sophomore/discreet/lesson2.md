@@ -32,11 +32,11 @@ In order of most first:
 - ->
 - <->
 
-*if a logical expression is true for all values of its true table, then the expression is called a **tautology***
+if a logical expression is true for all values of its true table, then the expression is called a **tautology**
 
-*if it is false for all is **contradiction***
+if it is false for all is **contradiction**
 
-*if it is conditionally true its **contingent***
+if it is conditionally true its **contingent**
 
 | P | Q |PvQ|P->(PvQ)|
 |---|---|---|--------|

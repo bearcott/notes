@@ -4,7 +4,7 @@
 *Gauss's law* can be summarized as:
 
 1. outward/inward flux depends on the sign of the net charge inside.
-2. *if there is no net charge inside a surface, there is no net flux*
+2. if there is no net charge inside a surface, there is no net flux
   - there can still be an electric field through object
   - these electric fields *do not* change net flux.
 3. net electric *flux* is proportional to the net charge inside the surface but otherwise is independent of the surface.
@@ -32,3 +32,5 @@ In the case of a flat surface:
 ![](gauss.png)
 
 *an electric field line that enters a surface containing no charge must exit it too*
+
+*the flux on a surface is always perpendicular to the surface it exits*
