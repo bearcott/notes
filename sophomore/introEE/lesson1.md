@@ -63,16 +63,16 @@ Each number is represented by a string of digits.
 
 **subtraction of binary numbers**
 
-|x|y|c|c+1|s=x+y+c|
-|-|-|-|---|-------|
-|0|0|0|  0|      0|
-|0|0|1|  0|      1|
-|0|1|0|  0|      1|
-|0|1|1|  1|      0|
-|1|0|0|  0|      1|
-|1|0|1|  1|      0|
-|1|1|0|  1|      0|
-|1|1|1|  1|      1|
+| x | y | c |c+1|s=x+y+c|
+|---|---|---|---|-------|
+| 0 | 0 | 0 |  0|      0|
+| 0 | 0 | 1 |  0|      1|
+| 0 | 1 | 0 |  0|      1|
+| 0 | 1 | 1 |  1|      0|
+| 1 | 0 | 0 |  0|      1|
+| 1 | 0 | 1 |  1|      0|
+| 1 | 1 | 0 |  1|      0|
+| 1 | 1 | 1 |  1|      1|
 
 **addition of binary numbers**
 
@@ -80,4 +80,4 @@ Each number is represented by a string of digits.
 1. invert digits (flip 1 and zeros)
 2. add one (let remainders propogate)
 - leading 0 means positive
-- 
+-

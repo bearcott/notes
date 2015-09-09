@@ -23,4 +23,12 @@ In the case of a flat surface:
 
     Flux = E * A <- where both are vectors
 
+- the force A is the normal to the surface
+
 ![](flatflux.png)
+
+**general form of gauss's law**
+
+![](gauss.png)
+
+*an electric field line that enters a surface containing no charge must exit it too*
