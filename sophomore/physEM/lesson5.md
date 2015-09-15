@@ -28,3 +28,14 @@ assume *electrostatic equillibrium* electric field is 0 inside an objects. Then 
 **cavity stuff**
 
 ![](cavity.png)
+
+# CH 23 Potential Energy
+
+    change in potential energy (Uf - Ui) = -W
+      = -q0 * E * d
+    //work is done by the gravitational field.
+
+    V = U/q0 (volts or J / C)
+
+    Vf - Vi = -E * d
+            = integral(Vf,Vi) -E * dr

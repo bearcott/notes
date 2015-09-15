@@ -23,6 +23,7 @@ the *electric field* opposes the positive direction and flows towards the negati
 The distribution for the electric field of a single particle
 - this will change once u add more
 
+
     E α 1/r^2 //proportional to
 
 electric field equation
@@ -68,7 +69,7 @@ It is *attracted* if q1q2 are opposite signs.
 
 ### Misc
 
-Also it is important to relate to several physics qualities.
+Also it is important to relate to several mechanical physics qualities.
 
 Such as the equation for kinetic energy.
 

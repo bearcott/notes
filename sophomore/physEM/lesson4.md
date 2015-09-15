@@ -1,5 +1,13 @@
 # CH 22 Gauss's Law
 
+*electric flux is directly porportional to the magnitude of the net charge inside the surface*
+
+there are *three* cases where there is no net flux:
+
+1. An empty box with E = 0;
+2. A box containing one positive and one equal magnitude negative point charge.
+3. An empty box immersed in a uniform electric field.
+
 
 *Gauss's law* can be summarized as:
 
@@ -14,6 +22,8 @@ The equation for flux in a uniform electric field:
     **Flux (phi)** = Energy * Area * cos(theta)
 
     Flux = ∫E * d * A * cos(theta) = +qnet/E0
+
+    q = flux * permittivity
 
 This is equation from *gauss's law*. You can derive *coloumbs* law from this equation.
 - the same concept applies to fluid dynamics

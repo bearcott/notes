@@ -19,6 +19,8 @@
 - where `q` is the charge and `d` is distance
 - pWater = 6.13 * 10^-30 C * m
 
+**Torque**
+When a diapole changes direction in an electric field, the electric field torque does *work* on it.
 
 The torque can be written in vector form:
 
@@ -26,12 +28,15 @@ The torque can be written in vector form:
 
 The torque is greatest when `p` and `E` are *perpendicular*. and is 0 when thy are parallel.
 
+
     dW = t * displacement or dPHI = -pE* sin(theta) * dPHI
 
     total work = integral(phi1,ph2) -pE * sin(phi) * dPHI
                = pE * cos(PHI2) - pE * cos(PHI1)
 
     potential energy or U = -p * E //all vectors
+
+    W = U1 - U2
 
 - potential energy is most negative when the angle `PHI` between then is 0.
 - Greatest when they are antiparallel. (`pi`)
