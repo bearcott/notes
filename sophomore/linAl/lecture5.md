@@ -38,3 +38,9 @@ If the matrix `A` is `invertible` then
     (AB)^-1 = B^-1 * A^-1
 
 ![](th210.png)
+
+#chapter 2.4
+
+elementary matrices can always be inverted, and the inverse is an elementary matrix.
+
+A square matrix is invertible if and only if it is a product of two elementary matrices

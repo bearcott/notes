@@ -29,17 +29,24 @@ This is equation from *gauss's law*. You can derive *coloumbs* law from this equ
 - the same concept applies to fluid dynamics
 - instead of `E` it would be velocity of water.
 
+A **gaussian surface** doesn't need to be made of anything, it is merely an imaginary closed shape which we define.
+
+*total flux is equal to the sum of all smaller flux inside*
+
+**general form of gauss's law**
+
+![](gauss.png)
+
+    e0 = 8.854 * 10^-12 C^2/N*m^2
+
 In the case of a flat surface:
 
     Flux = E * A <- where both are vectors
 
 - the force A is the normal to the surface
+- E is the force of the electric flux
 
 ![](flatflux.png)
-
-**general form of gauss's law**
-
-![](gauss.png)
 
 *an electric field line that enters a surface containing no charge must exit it too*
 
