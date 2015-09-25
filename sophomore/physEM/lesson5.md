@@ -52,3 +52,7 @@ If there is a positive charge in a cavity, there has to be a negative charge on 
 
     Vf - Vi = -E * d
             = integral(Vf,Vi) -E * dr
+
+Work only depends on the distance between point A and point B
+
+Potential energy is proportional to `1/r`

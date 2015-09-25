@@ -49,12 +49,19 @@ It is *attracted* if q1q2 are opposite signs.
 
     E = F0/q0 <-- vector
 
-    E = k * q / r^2 r <-- vector
+    E = k * |q| / r^2 r <-- vector
+
+    F0 = k * |qq0| / r^2
+
+    E = F0/q0 = E1 + E2 + E3 + E4
 
 - E is electric field vector
+  - What E means is if we placed a charge worth 1 at a point `r` away, then the force would be E.
 - F0 is the force exerted on q.
 - when q is positive E and F0 same direction
   - else opposite directions
+
+*an electric field has no motion*
 
 
 *charge can be transferred through contact*
@@ -74,3 +81,7 @@ Also it is important to relate to several mechanical physics qualities.
 Such as the equation for kinetic energy.
 
     K = 0.5 * m * v^2
+
+    F = m * a
+
+    kinematic equations! lol!

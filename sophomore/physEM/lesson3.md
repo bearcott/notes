@@ -1,14 +1,14 @@
-#CH21
+# CH21
 
 **electric field lines** the direction of the electric field is a tangent at any point.
 - field lines never intersect
 
 *polarization* is where the positive and negative charges are separated.
 
-###diapoles
+### dipoles
 
-*the net force of a diapole in a uniform field is zero*
-- however their toque is not zero.
+*the net force of a dipole in a uniform field is zero*
+- however their torque is not zero.
 
 
     torque = qE * distance * sin(theta)
@@ -26,7 +26,10 @@ The torque can be written in vector form:
 
     torque = p * E //these are all vectors.
 
-The torque is greatest when `p` and `E` are *perpendicular*. and is 0 when thy are parallel.
+- The torque is greatest when `p` and `E` are *perpendicular*. and is 0 when they are parallel.
+  - position `0` (parallel) is stable
+  - position `pi` (antiparallel) is unstable
+  - 
 
 
     dW = t * displacement or dPHI = -pE* sin(theta) * dPHI
