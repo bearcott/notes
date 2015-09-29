@@ -8,7 +8,7 @@
   - X + (Y * Z) = (X + Y) * (Y + Z)
 
 **negate and simplify**
-- P -> W <-> not P * Q
+- P -> Q <-> not P * Q
 - not (P -> Q) <-> P and not Q
 - not (P or Q) <-> not P and not Q
   - De Morgan's Law

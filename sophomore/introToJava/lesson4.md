@@ -27,6 +27,8 @@ you can increment chars
 
 **conversion**
 - `Integer.parseInt(str)`
+- `Integer.toString(str)`
+- `String.valueOf(i)`
 
 **misc**
 

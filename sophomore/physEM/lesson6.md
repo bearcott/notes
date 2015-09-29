@@ -13,9 +13,18 @@
 
     W = q0 * E (ya - yb)
 
+    Potential Energy (multiple charges) = q0 * k * sum(q/r)
+
+    Work = PEf = PEi
+
+    Electric Field = V/d
+
+    V (or potential) = kq/r
+
 
 
 Potential energy *increases* when an object is moving in a path of resistance, and *decreases* otherwise (because it turns into kinetic energy.)
+- potential energy is the SAME inside a surface as it is ON THE SURFACE
 
 The absolute positioning of elements does not change the potential energy, the only thing that changes it is the relative distance between them.
 

@@ -1,6 +1,6 @@
  switch statement *default* is optional.
 
-    swith(day) {
+    switch(day) {
       case 1: System.out.println("wat"); break;
       case 2: System.out.println("dis");
     }

@@ -7,7 +7,7 @@
 
 **constructors**
 
-- can have the same name as the class itself
+- MUST have the same name as the class itself
 - do not have a return type (not void)
 - constructors are invoked when `new` class is called
 
@@ -23,3 +23,11 @@
 - instance variables must use this.
 
 **garbage collection** by JVM if a variable is no longer used it is destroyed
+
+**Random class**
+
+    import java.util.Random;
+    Random r = new Random(3); //random with seed.
+    r.nextLong() //int, bool, float, long
+
+**point2d**

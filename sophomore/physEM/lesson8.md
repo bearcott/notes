@@ -29,7 +29,11 @@
 
     Cequiv = Qtotal/V0 = C1 + C2 + C3
 
-
 - potential difference across all capacitors in parallel has to be the same
+- the charge must be the same across all capacitors in a series
 
 *question 24.2*
+
+**energy in a capacitor**
+
+    W = U = qdV = 1/2 CV0^2

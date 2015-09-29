@@ -11,11 +11,11 @@ Table of common logical operations
 
 - OR - if one is true, then true (v)
   - p or q.
-- AND - both are true, then true (^)
+- AND - if both are true, then true (^)
   - p and q.
-- XOR - one is false one is true, then true ((+))
+- XOR - if one is false one is true, then true ((+))
   - p or q, but not both.
-- Bi-conditional - both are false or true, then true (<->)
+- Bi-conditional - if both are false or true, then true (<->)
   - p if and only if q.
   - known as *IFF*
 
