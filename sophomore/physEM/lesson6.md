@@ -22,6 +22,8 @@
     V (or potential) = kq/r
 
 
+- `r` is always distance from point to center of charge
+
 
 Potential energy *increases* when an object is moving in a path of resistance, and *decreases* otherwise (because it turns into kinetic energy.)
 - potential energy is the SAME inside a surface as it is ON THE SURFACE
@@ -29,3 +31,5 @@ Potential energy *increases* when an object is moving in a path of resistance, a
 The absolute positioning of elements does not change the potential energy, the only thing that changes it is the relative distance between them.
 
 - Since the trajectory of the path is not considered, this is called *conservative.*
+
+- potential of a hollow sphere is equal to the potential inside it. hence r(sphere)+r(inside)

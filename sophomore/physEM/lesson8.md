@@ -3,7 +3,10 @@
     C = Q/V
       = (e0 * A) / d //parallel plate
       = (4 * pi * e0 * a * b)/(b - a) //spherical
+      = (2 * pi * e0 * L)/ln(b / a) //cylinder
       = 4 * pi * e0 * a //spherical if b went to infinity
+
+- when calculating area you have to convert m^2 to cm^2 not m to cm
 
 **potential difference** voltage
 

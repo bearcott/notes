@@ -18,6 +18,7 @@
 - *instance vs static*
 
 **immutable** means cannot be changed once created
+- strings are immutable
 
 **this**
 - instance variables must use this.
