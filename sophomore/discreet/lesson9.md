@@ -12,4 +12,4 @@ if B and C ar sets we say that B and C have the same cardinality |b| = |c| if th
 
 if |b| = |n| then b is said to be countably infinite. (listably infinite)
 
-if |b| > |n| then its calld uncountably infinite.
+if |b| > |n| then its called uncountably infinite.
