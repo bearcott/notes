@@ -30,7 +30,7 @@
 
     Let F: B->C be a function
 
-    we say F is *onto* if
+    we say F is *onto* or *surjection* if
       AyeC ExeB[(x,y)eF] //the entire codomain is used up
       |B| >= |C|
 
@@ -38,7 +38,7 @@
 
     Let F:B->C
     if F is both 1-1 and onto,
-    f is said to be a *1-1 correspondence*.
+    f is said to be a *1-1 correspondence* or *bijection*.
       |B| == |C|
 
     -----
@@ -47,4 +47,7 @@
     then f^-1:C->B such at
       AxeB AyeC[(x,y)eF -> (y,x)eF^-1]
 
-      
+**inverse** is not possible if its not a 1-1 correspondence. cus invert is A->B -> B->A
+
+
+![](functions.png)

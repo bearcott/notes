@@ -25,3 +25,5 @@ propositional calculus or propositional logic
 **disjunction** is false when both components are false. true otherwise.
 
 *when you say `or`, you are saying inclusive or/exclusive or.*
+
+*real numbers* are irrational + rational

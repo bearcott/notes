@@ -20,6 +20,8 @@ The **contrapositive** of P -> Q is not Q -> not P
 
 - these are always true
 
+**inverse** P -> Q is ¬P -> ¬Q
+
 *so it turns out, if u connect all the midpoints in a quadrilateral you get a parallelogram lol*
 
 **predicate logic**
