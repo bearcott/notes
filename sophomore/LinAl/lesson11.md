@@ -1,3 +1,9 @@
+# subspace
+
+*definiion:*
+
+A nonempty subset W of a vector space V is called a subspace of V when W is a vector space under the operations of addition and scalar multiplication defined in V.
+
 **4 entities**
 1. set of vectors
 2. set of scalars
@@ -20,14 +26,15 @@
 4. `c(d * u) = (c * d)u`
 
 **test for a subspace**
-
-1. if u and v are in W then `u + v` is in W
-2. if u is in W and c is any scalar, c*u is in W
+- if u and v are in W then `u + v` is in W
+  - consider if they are singular/nonsingular
+- if u is in W and c is any scalar, c*u is in W
 
 **condition for subspace**
 1. nonempty
 2. u,v in W -> u + v in W
 3. c, u in W -> c*u in W
+
 
 
 **subspace of R^2**

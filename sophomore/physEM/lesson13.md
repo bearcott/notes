@@ -13,6 +13,10 @@
 
     Vab or EMF = scriptE - IR
 
+    P = V * I = I^2 * R
+
+    W = P * time in seconds
+
 
 `Va - Vb` is called *terminal voltage*
 
@@ -22,6 +26,12 @@ scriptE is an ideal source of EMF
 - current is the same no matter thickness of wire
 - current can vary using even the same battery
 
+**power** is
+- the rate of energy dissipated across something
+- the rate at which energy is converted to another form
+- ITS A RATE `V * I`
+
 
 *questions*
 - would you subtract the 16V and not the 8V in 25.46?
+- is EMF the potential difference?
