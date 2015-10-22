@@ -1,4 +1,4 @@
-#CH 2.4
+# CH 2.4
 
 Theorem 2.12:
 
@@ -16,5 +16,3 @@ Can solve `Ax=b`
 
     LUx = b
     y = Ux, Ly = b
-
-    

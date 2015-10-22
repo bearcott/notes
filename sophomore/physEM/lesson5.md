@@ -19,7 +19,7 @@
 
 - lambda = charge / length
 - sigma = charge / area
-- ro = charge / volume
+- rho = charge / volume
 
 When excess charge is placed on a solid conductor and is at rest, it stays on the surface of the material, not inside.
 - excess means not electrons that compose the material.

@@ -1,5 +1,7 @@
 # Chapter 23
 
+    U = V/q0
+
     V = Q * k / r //volts
 
     U = -q * Q * k / r //potential energy
@@ -16,6 +18,8 @@
     Potential Energy (multiple charges) = q0 * k * sum(q/r)
 
     Work = PEf = PEi
+
+    Work = E * q0 * d * cos(theta)
 
     Electric Field = V/d
 

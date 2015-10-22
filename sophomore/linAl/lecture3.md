@@ -35,5 +35,6 @@ If x values are too big, then you can make another variable to substitute it. e.
 **Electrical Circuits**
 
 Kirchoff's law:
+
 1. All currents flowing into a junction (node) should be equal to all load flowing out.
 2. The sum of the `RI` (resistance * current) products around a closed path (loop) is equal to the total `voltage`0 in the path.
