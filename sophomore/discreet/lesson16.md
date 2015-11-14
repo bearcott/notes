@@ -2,7 +2,7 @@
 
     `5^50 mod 7`
 
-B^n mod m = (B mod m)^n mod m
+B^a*b mod m = (B^a mod m)^b mod m
 
     6^1 mod 11 = 6
     6^2 mod 11 = 3
@@ -12,6 +12,6 @@ B^n mod m = (B mod m)^n mod m
 
 **fermat's little theorem**
 - if p is prime then 2^(p-1)
-- if p is prime then 2^(p-1) mod P = 1
+- if p is prime then 2^(p-1) = 1 mod (p)
 
 *2^10 = 1024*
